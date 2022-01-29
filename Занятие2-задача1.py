@@ -7,3 +7,5 @@ b = int(input("Введите второе число: "))
 c = int(input("Введите третье число: "))
 sum = a + b + c
 print("Ответ: ", sum)
+
+print("\n")
